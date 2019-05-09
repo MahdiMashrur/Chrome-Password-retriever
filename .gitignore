@@ -8,4 +8,18 @@ WebContent/WEB-INF/ra-storage/
 .classpath
 .project
 .tern-project
+
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+
 /bin/
